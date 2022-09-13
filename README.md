@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Abhilash Kumar</h1>
-<h3 align="center">A passionate Ml enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Abhilash </h1>
+<h3 align="center">A Machine learning enthusiast from India</h3>
 
 - 🔭 I’m currently working on **sentiment analysis**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **NLP with Bert**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhilashpanda04](https://github.com/abhilashpanda04)
 
-- 💬 Ask me about **python,ML,MLops,DL**
+- 💬 Ask me about **Python,Machine learning,Deep Learning,MLops,Finance**
 
 - 📫 How to reach me **abhilashk.isme1517@gmail.com**
 
