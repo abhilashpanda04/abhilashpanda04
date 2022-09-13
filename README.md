@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abhilashk.isme1517@gmail.com**
 
-<h3 align="left">Connect with me: https://www.instagram.com/the_dreamy_soul/</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/abhilash-kumar-panda</h3>
 <p align="left">
 </p>
 
