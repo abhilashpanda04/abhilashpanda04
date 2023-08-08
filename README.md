@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhilash </h1>
 <h3 align="center">A Machine learning enthusiast from India</h3>
 
-- 🔭 I’m currently working on **sentiment analysis**
+- 🔭 I’m currently working on **Transformers based models**
 
-- 🌱 I’m currently learning **NLP with Bert**
+- 🌱 I’m currently learning **Generative AI and Transformers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhilashpanda04](https://github.com/abhilashpanda04)
 
 - 💬 Ask me about **Python,Machine learning,Deep Learning,MLops,Finance**
 
 - 📫 How to reach me **abhilashk.isme1517@gmail.com**
+
+-🔍 Exploring the fascinating world of data one algorithm at a time. Transforming raw numbers into actionable insights is my forte. 📊💡 
 
 <h3 align="left">Connect with me: https://www.linkedin.com/in/abhilash-kumar-panda</h3>
 <p align="left">
