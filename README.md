@@ -13,7 +13,7 @@
 
 -🔍 Exploring the fascinating world of data one algorithm at a time. Transforming raw numbers into actionable insights is my forte. 📊💡 
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/abhilash-kumar-panda</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/abhilash-k-panda</h3>
 <p align="left">
 </p>
 
