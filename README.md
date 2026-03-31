@@ -1,25 +1,140 @@
-<h1 align="center">Hi 👋, I'm Abhilash </h1>
-<h3 align="center">A Machine learning enthusiast from India</h3>
+# Hey! 👋 I'm Abhilash
 
-- 🔭 I’m currently working on **Transformers based models**
+I build **production GenAI systems**, specialize in **LLMs & RAG**, and spend a lot of time thinking about how to make AI work in the real world (not just in notebooks).
 
-- 🌱 I’m currently learning **Generative AI and Transformers**
+Currently at **London Stock Exchange**, building financial data extraction pipelines with LLMs and multi-agent systems.
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhilashpanda04](https://github.com/abhilashpanda04)
+---
 
-- 💬 Ask me about **Python,Machine learning,Deep Learning,MLops,Finance**
+## 🔥 What I'm Into
 
-- 📫 How to reach me **abhilashk.isme1517@gmail.com**
+**GenAI/LLMs:** LangChain, LLaMA fine-tuning, prompt engineering, RAG systems  
+**MLOps:** ZenML, DVC, CML, orchestrating ML at scale  
+**NLP/ML:** BERT, transformers, building production classifiers  
+**Cloud:** Azure (Document Intelligence), GCP, AWS  
+**Languages:** Python, SQL, Bash
 
--🔍 Exploring the fascinating world of data one algorithm at a time. Transforming raw numbers into actionable insights is my forte. 📊💡 
+---
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/abhilash-k-panda</h3>
-<p align="left">
-</p>
+## 🚀 Projects That Matter
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🤖 LLM & GenAI
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilashpanda04&show_icons=true&locale=en&layout=compact" alt="abhilashpanda04" /></p>
+**[Finetuning-Llama-3.1-Unsloth](https://github.com/abhilashpanda04/Finetuning-Llama-3.1-Unsloth)**  
+Domain-adapted LLaMA 3.1 fine-tuning with Unsloth QLoRA. ~60% faster inference than standard PEFT. Production-ready example for efficient model adaptation.
+- 📌 LLaMA 3.1 · QLoRA · Unsloth · HuggingFace
+- ⭐ Full walkthrough from dataset prep to deployment
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhilashpanda04&show_icons=true&locale=en" alt="abhilashpanda04" /></p>
+**[PDF-ChatBot-Langchain](https://github.com/abhilashpanda04/PDF-ChatBot-Langchain)**  
+RAG system for document Q&A with source attribution and session memory. Real implementation of what "production RAG" looks like.
+- 📌 LangChain · Vector DB · RAG · Document Processing
+- ⭐ Shows conversation context, source tracking, actual retrieval patterns
+
+**[Chainlit-langchain-app](https://github.com/abhilashpanda04/Chainlit-langchain-app)**  
+Full LLM application framework for building conversational AI. From playground to production interface.
+- 📌 Chainlit · LangChain · FastAPI · UI/UX
+- ⭐ Everything you need to deploy an LLM app
+
+### 🔧 MLOps & Production ML
+
+**[Mlops-project-zenml](https://github.com/abhilashpanda04/Mlops-project-zenml)**  
+End-to-end ML pipeline orchestration with ZenML. Data validation → Model training → Deployment.
+- 📌 ZenML · MLflow · Docker · Kubernetes
+- ⭐ How I think about reproducible, automated ML pipelines
+
+**[Mlops-DVC-StackOverflow](https://github.com/abhilashpanda04/Mlops-DVC-StackOverflow)**  
+DVC + MLflow + CML CI/CD workflow. Data versioning, experiment tracking, automated retraining.
+- 📌 DVC · MLflow · Git · CML Pipelines
+- ⭐ Practical data science workflow (not theoretical)
+
+**[BERT-Pretraining-finetuning](https://github.com/abhilashpanda04/BERT-Pretraining-finetuning)**  
+BERT pre-training from scratch with MLM. Then fine-tuned for sentiment classification.
+- 📌 PyTorch · HuggingFace · Transformers · NLP
+- ⭐ Deep dive into how transformers actually work
+
+### 📊 Data Science
+
+**[Design-Patterns](https://github.com/abhilashpanda04/Design-Patterns)**  
+Gang of Four design patterns implemented in Python with practical examples. Because good architecture matters.
+- 📌 Python · OOP · Architecture
+- ⭐ 23 patterns with real-world use cases
+
+**[Credit-Risk-Modeling](https://github.com/abhilashpanda04/Credit-Risk-Modeling)**  
+Predictive modeling for loan default prediction. Full pipeline from EDA to model evaluation.
+- 📌 Scikit-learn · XGBoost · Statistical Analysis
+- ⭐ How to build production classifiers
+
+---
+
+## 🛠 Stack Overview
+
+**Core Languages:** Python (expert), SQL, Bash  
+**LLMs:** GPT-4, Claude, Gemini, LLaMA (fine-tuned)  
+**ML Frameworks:** PyTorch, TensorFlow, Scikit-learn, XGBoost  
+**LLM Tools:** LangChain, LangGraph, Pydantic-AI, OpenAI API  
+**MLOps:** ZenML, MLflow, DVC, CML, Weights & Biases  
+**Cloud:** Azure (Document Intelligence), GCP, AWS  
+**DevOps:** Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI)
+
+---
+
+## 📈 Some Things I've Built
+
+**GenAI Financial Data Pipeline** (current role)
+- Built document extraction system for regulatory filings using LLMs
+- Reduced manual processing from weeks to minutes
+- Integrated with enterprise workflows
+
+**RAG Answer Engine**
+- Context-aware retrieval with session memory
+- Source attribution for compliance
+- Production deployment with monitoring
+
+**Multi-Agent AI Systems**
+- Complex workflows with LangGraph
+- Tool use, memory management, agentic patterns
+- Real-world financial data processing
+
+---
+
+## 🎓 Background
+
+Started in financial operations (State Street Global Advisory) → discovered I loved building data systems → now focused on production AI/ML, especially GenAI at scale.
+
+**PG Diploma, Finance & Operations** · ISME, Bangalore  
+**B.Tech, Mechanical Engineering** · Silicon Institute of Technology  
+
+Certifications: Data Science (Carnegie Mellon/INSOFE), ML in Production (Andrew Ng), MCP Developer Guide, Six Sigma Green Belt
+
+---
+
+## 🔭 Currently Exploring
+
+- 🤖 Advanced RAG patterns (multi-hop retrieval, hybrid search)
+- 🧠 Agentic workflows (ReAct, tool use, reasoning)
+- ⚡ LLM inference optimization (quantization, distillation, caching)
+- 📊 Evaluating GenAI systems (metrics, evals, monitoring)
+
+---
+
+## 📦 Let's Build
+
+I'm interested in:
+- **Production GenAI systems** - real scale, real constraints
+- **Financial services + AI** - combines my domain knowledge with cutting-edge tech
+- **MLOps & automation** - making ML actually work in production
+- **Open source** - sharing what works
+
+Feel free to reach out:
+
+📧 [abhilash.k.panda@gmail.com](mailto:abhilash.k.panda@gmail.com)  
+🔗 [linkedin.com/in/abhilash-k-panda](https://www.linkedin.com/in/abhilash-k-panda/)  
+💼 [portfolio](https://abhilashpanda04.github.io/Portfolio_site/)
+
+---
+
+<div align="center">
+
+Building AI systems that actually work. 🚀
+
+</div>
