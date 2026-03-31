@@ -2,7 +2,7 @@
 
 I work with **LLMs and production ML systems**. Mostly tinkering with RAG, fine-tuning models, and trying to make AI actually work in the real world instead of just in Jupyter notebooks.
 
-Currently at **LSEG** building GenAI stuff for financial data.
+Currently at building GenAI stuff for financial data.
 
 ---
 
